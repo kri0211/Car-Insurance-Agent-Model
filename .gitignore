@@ -1,5 +1,0 @@
-In your project folder, create a file named .gitignore and add:
-
-venv/
-__pycache__/
-*.pyc
